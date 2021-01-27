@@ -1,0 +1,6 @@
+c:\users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\bin\Debug\AutomaticExchanger.exe.config
+c:\users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\bin\Debug\AutomaticExchanger.exe
+c:\users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\bin\Debug\AutomaticExchanger.pdb
+c:\users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\obj\Debug\AutomaticExchanger.exe
+c:\users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\obj\Debug\AutomaticExchanger.pdb
+C:\Users\suleyman\documents\visual studio 2013\Projects\AutomaticExchanger\AutomaticExchanger\obj\Debug\AutomaticExchanger.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\bin\Release\SmartContract.exe.config
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\obj\Release\SmartContract.Main.resources
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\obj\Release\SmartContract.Properties.Resources.resources
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\obj\Release\SmartContract.csproj.GenerateResource.Cache
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\bin\Release\SmartContract.exe
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\bin\Release\SmartContract.pdb
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\obj\Release\SmartContract.exe
+C:\Users\suleyman\documents\visual studio 2013\Projects\SmartContract\SmartContract\obj\Release\SmartContract.pdb
